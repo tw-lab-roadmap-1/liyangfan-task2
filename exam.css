@@ -1,0 +1,25 @@
+.main-style{
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.first-inline , .second-inline{
+    display: inline;
+}
+
+.border-style{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    border-color: darkgray;
+}
+
+.caculate {
+    margin-left: 46%;
+    background-color:#00B7FF;
+}
+
+h3.title {
+    background-color: lavender;
+    margin: 0;
+}
